@@ -1,37 +1,45 @@
-import sys
 import math
+def FindMinArea():
+	points = [tuple(map(float, input().split())) for _ in range(3)]
 
-def solve():
-    data = sys.stdin.read().split()
-    x1, y1, x2, y2, x3, y3 = map(float, data[:6])
-    p1, p2, p3 = (x1, y1), (x2, y2), (x3, y3)
+	(x1, y1), (x2, y2), (x3, y3) = points
 
-    def dist(p, q):
-        return math.hypot(p[0]-q[0], p[1]-q[1])
+	# Side lengths
+	a = math.hypot(x2 - x3, y2 - y3)
+	b = math.hypot(x1 - x3, y1 - y3)
+	c = math.hypot(x1 - x2, y1 - y2)
 
-    # side lengths (a opposite p1, b opposite p2, c opposite p3)
-    a = dist(p2, p3)
-    b = dist(p1, p3)
-    c = dist(p1, p2)
+	# Triangle area
+	area = abs((x2 - x1) * (y3 - y1) - (x3 - x1) * (y2 - y1)) / 2
 
-    # interior angles of the triangle at each vertex, via law of cosines
-    A = math.acos((b*b + c*c - a*a) / (2*b*c))
-    B = math.acos((a*a + c*c - b*b) / (2*a*c))
-    C = math.pi - A - B
+	# Circumradius
+	try:
+		R = a * b * c / (4 * area)
+	except ZeroDivisionError:
+		print("The area becomes zero can;t find the answer...")
+		return 0
 
-    # circumradius of the triangle (= circumradius of the regular polygon)
-    R = a / (2 * math.sin(A))
+	# Central angles
+	A = 2 * math.asin(a / (2 * R))
+	B = 2 * math.asin(b / (2 * R))
+	C = 2 * math.asin(c / (2 * R))
 
-    def fgcd(x, y, eps=1e-4):
-        while y > eps:
-            x, y = y, math.fmod(x, y)
-        return x
+	eps = 1e-6
 
-    # each triangle angle is k * (pi/n) for the same base unit theta = pi/n
-    theta = fgcd(fgcd(A, B), C)
-    n = round(math.pi / theta)
+	def ok(n):
+		step = 2 * math.pi / n
+		for ang in (A, B, C):
+			if abs(ang / step - round(ang / step)) > eps:
+				return False
+		return True
 
-    area = 0.5 * n * R * R * math.sin(2 * math.pi / n)
-    print(f"{area:.6f}")
+	for n in range(3, 101):
+		if ok(n):
+			ans = 0.5 * n * R * R * math.sin(2 * math.pi / n)
+			print(f"{ans:.10f}")
+			break
+	return 0
+		
+		
+FindMinArea()
 
-solve()

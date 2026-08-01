@@ -16,6 +16,7 @@ E
 |2C|[COMMENTATOR PROBLEM](https://codeforces.com/problemset/problem/2/C)|`math`,`coordinate Geometry`|?|46 ms|
 |3A|[SHORTEST PATH OF THE KING](https://codeforces.com/problemset/problem/3/A)|`number theory`,`greedy`,`math`|?|124 ms|
 |3B|[LORRY](https://codeforces.com/problemset/problem/3/B)||?|374 ms|
+|3C|[TIC-TAC-TOE](https://codeforces.com/problemset/problem/3/C)|`brute force`,`game`,`implementation`|?| 124 ms|
 
 
 

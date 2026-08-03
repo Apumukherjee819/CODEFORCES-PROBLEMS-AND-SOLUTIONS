@@ -18,7 +18,10 @@ E
 |3B|[LORRY](https://codeforces.com/problemset/problem/3/B)||?|374 ms|
 |3C|[TIC-TAC-TOE](https://codeforces.com/problemset/problem/3/C)|`brute force`,`game`,`implementation`|?| 124 ms|
 |3D|[LEAST COST BRACKET SEQUENCE](https://codeforces.com/problemset/problem/3/D)|`greedy`,`*2600`|?|280 ms|
-
+|4A|[WATERMELON](https://codeforces.com/problemset/problem/4/A)|`brute force` , `math`,`*800`|?|92 ms|
+|4C|[REGISTRATION SYSTEM](https://codeforces.com/problemset/problem/4/C)|`data structure`,`implementation`,`hashing`,`*1300`|?|312 ms|
+|4D|[MYSTRERIOS PRESENT](https://codeforces.com/problemset/problem/4/D)|`dp`,`sorting`,`*1700`|?|62 ms|
+|6A|[TRIANGLE](https://codeforces.com/problemset/problem/6/A)|`brute force`,`geometry`,`*900`|?|124 ms|
 
 
 

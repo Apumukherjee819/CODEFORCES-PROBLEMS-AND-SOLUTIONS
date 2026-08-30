@@ -5,6 +5,7 @@ This repo contains the question and the solution of the problems In the codeforc
 
 **LANGUAGE:** Python
 
+**Rating:** 1007
 
 ## PROBLEMS:
 | Sl No. | Problems | Language | Time | Memory |

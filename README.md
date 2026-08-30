@@ -71,5 +71,3 @@ This repo contains the question and the solution of the problems In the codeforc
 | 60 | [A - Theatre Square](https://codeforces.com/problemset/problem/1/A) | Python 3 | 62 ms | 0 KB |
 
 **NOTE :** You can also check my submission at my profile submission page [ArpanMukherjee0710](https://codeforces.com/submissions/ArpanMukherjee0710)
-
-Thank you for support. This will help me to go the long way...

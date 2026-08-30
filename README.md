@@ -9,11 +9,11 @@ This repo contains the question and the solution of the problems In the codeforc
 ## PROBLEMS:
 | Sl No. | Problems | Language | Time | Memory |
 |--------|----------|----------|------|--------|
-|  | [A - Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | Python 3 | 843 ms | 0 KB |
-| 2 | [B1 - Carrot Chopdown (Easy Version)](https://codeforces.com/problemset/problem/2258/B1) | Python 3 | 234 ms | 22900 KB |
-| 3 | [A - Odd Eraser](https://codeforces.com/problemset/problem/2258/A) | Python 3 | 46 ms | 4000 KB |
-| 4 | [A - Hulk](https://codeforces.com/problemset/problem/705/A) | Python 3 | 46 ms | 0 KB |
-| 5 | [A - Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | Python 3 | 78 ms | 1600 KB |
+|996A| [A - Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | Python 3 | 843 ms | 0 KB |
+| 2258B1 | [B1 - Carrot Chopdown (Easy Version)](https://codeforces.com/problemset/problem/2258/B1) | Python 3 | 234 ms | 22900 KB |
+| 2258A | [A - Odd Eraser](https://codeforces.com/problemset/problem/2258/A) | Python 3 | 46 ms | 4000 KB |
+| 705A | [A - Hulk](https://codeforces.com/problemset/problem/705/A) | Python 3 | 46 ms | 0 KB |
+| 1328A | [A - Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | Python 3 | 78 ms | 1600 KB |
 | 6 | [A - Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) | Python 3 | 62 ms | 100 KB |
 | 7 | [A - Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | Python 3 | 124 ms | 0 KB |
 | 8 | [A - Presents](https://codeforces.com/problemset/problem/136/A) | Python 3 | 124 ms | 0 KB |

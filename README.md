@@ -69,6 +69,6 @@ This repo contains the question and the solution of the problems In the codeforc
 | 57 | [C - Hexadecimal's Numbers](https://codeforces.com/problemset/problem/9/C) | Python 3 | 92 ms | 0 KB |
 | 58 | [B - Running Student](https://codeforces.com/problemset/problem/9/B) | Python 3 | 124 ms | 0 KB |
 | 59 | [A - Die Roll](https://codeforces.com/problemset/problem/9/A) | Python 3 | 156 ms | 0 KB |
-| 60 | [A - Theatre Square](https://codeforces.com/problemset/problem/1/A) | Python 3 | 62 ms | 0 KB |
+| 1A | [A - Theatre Square](https://codeforces.com/problemset/problem/1/A) | Python 3 | 62 ms | 0 KB |
 
 **NOTE :** You can also check my submission at my profile submission page [ArpanMukherjee0710](https://codeforces.com/submissions/ArpanMukherjee0710)

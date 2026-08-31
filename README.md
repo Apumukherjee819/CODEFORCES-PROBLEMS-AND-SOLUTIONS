@@ -15,19 +15,19 @@ This repo contains the question and the solution of the problems In the codeforc
 | 2258A | [A - Odd Eraser](https://codeforces.com/problemset/problem/2258/A) | Python 3 | 46 ms | 4000 KB |
 | 705A | [A - Hulk](https://codeforces.com/problemset/problem/705/A) | Python 3 | 46 ms | 0 KB |
 | 1328A | [A - Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | Python 3 | 78 ms | 1600 KB |
-| 6 | [A - Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) | Python 3 | 62 ms | 100 KB |
-| 7 | [A - Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | Python 3 | 124 ms | 0 KB |
-| 8 | [A - Presents](https://codeforces.com/problemset/problem/136/A) | Python 3 | 124 ms | 0 KB |
-| 9 | [B - Drinks](https://codeforces.com/problemset/problem/200/B) | Python 3 | 124 ms | 0 KB |
-| 10 | [A - Magnets](https://codeforces.com/problemset/problem/344/A) | Python 3 | 124 ms | 8000 KB |
-| 11 | [A - Calculating Function](https://codeforces.com/problemset/problem/486/A) | Python 3 | 62 ms | 0 KB |
-| 12 | [A - George and Accommodation](https://codeforces.com/problemset/problem/467/A) | Python 3 | 62 ms | 0 KB |
-| 13 | [B - Queue at the School](https://codeforces.com/problemset/problem/266/B) | Python 3 | 124 ms | 0 KB |
-| 14 | [A - In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | Python 3 | 62 ms | 0 KB |
-| 15 | [A - Creating Abbreviations](https://codeforces.com/problemset/problem/2257/A) | Python 3 | 31 ms | 200 KB |
-| 16 | [A - Tram](https://codeforces.com/problemset/problem/116/A) | Python 3 | 124 ms | 0 KB |
-| 17 | [A - Beautiful Year](https://codeforces.com/problemset/problem/271/A) | Python 3 | 124 ms | 0 KB |
-| 18 | [A - Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | Python 3 | 62 ms | 0 KB |
+| 61A | [A - Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) | Python 3 | 62 ms | 100 KB |
+| 228A | [A - Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | Python 3 | 124 ms | 0 KB |
+| 136A | [A - Presents](https://codeforces.com/problemset/problem/136/A) | Python 3 | 124 ms | 0 KB |
+| 200B | [B - Drinks](https://codeforces.com/problemset/problem/200/B) | Python 3 | 124 ms | 0 KB |
+| 344A | [A - Magnets](https://codeforces.com/problemset/problem/344/A) | Python 3 | 124 ms | 8000 KB |
+| 486A | [A - Calculating Function](https://codeforces.com/problemset/problem/486/A) | Python 3 | 62 ms | 0 KB |
+| 467A | [A - George and Accommodation](https://codeforces.com/problemset/problem/467/A) | Python 3 | 62 ms | 0 KB |
+| 266B | [B - Queue at the School](https://codeforces.com/problemset/problem/266/B) | Python 3 | 124 ms | 0 KB |
+| 1030A | [A - In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | Python 3 | 62 ms | 0 KB |
+| 2257A | [A - Creating Abbreviations](https://codeforces.com/problemset/problem/2257/A) | Python 3 | 31 ms | 200 KB |
+| 116A | [A - Tram](https://codeforces.com/problemset/problem/116/A) | Python 3 | 124 ms | 0 KB |
+| 271A | [A - Beautiful Year](https://codeforces.com/problemset/problem/271/A) | Python 3 | 124 ms | 0 KB |
+| 677A | [A - Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | Python 3 | 62 ms | 0 KB |
 | 19 | [A - Translation](https://codeforces.com/problemset/problem/41/A) | Python 3 | 62 ms | 0 KB |
 | 20 | [A - Anton and Danik](https://codeforces.com/problemset/problem/734/A) | Python 3 | 62 ms | 400 KB |
 | 21 | [A - Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | Python 3 | 124 ms | 200 KB |

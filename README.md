@@ -28,7 +28,7 @@ This repo contains the question and the solution of the problems In the codeforc
 | 116A | [A - Tram](https://codeforces.com/problemset/problem/116/A) | Python 3 | 124 ms | 0 KB |
 | 271A | [A - Beautiful Year](https://codeforces.com/problemset/problem/271/A) | Python 3 | 124 ms | 0 KB |
 | 677A | [A - Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | Python 3 | 62 ms | 0 KB |
-| 19 | [A - Translation](https://codeforces.com/problemset/problem/41/A) | Python 3 | 62 ms | 0 KB |
+| 41A | [A - Translation](https://codeforces.com/problemset/problem/41/A) | Python 3 | 62 ms | 0 KB |
 | 20 | [A - Anton and Danik](https://codeforces.com/problemset/problem/734/A) | Python 3 | 62 ms | 400 KB |
 | 21 | [A - Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | Python 3 | 124 ms | 200 KB |
 | 22 | [A - Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | Python 3 | 62 ms | 0 KB |

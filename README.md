@@ -30,7 +30,7 @@ This repo contains the question and the solution of the problems In the codeforc
 | 677A | [A - Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | Python 3 | 62 ms | 0 KB |
 | 41A | [A - Translation](https://codeforces.com/problemset/problem/41/A) | Python 3 | 62 ms | 0 KB |
 | 734A | [A - Anton and Danik](https://codeforces.com/problemset/problem/734/A) | Python 3 | 62 ms | 400 KB |
-| 21 | [A - Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | Python 3 | 124 ms | 200 KB |
+| 110A | [A - Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | Python 3 | 124 ms | 200 KB |
 | 22 | [A - Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | Python 3 | 62 ms | 0 KB |
 | 23 | [A - Word](https://codeforces.com/problemset/problem/59/A) | Python 3 | 92 ms | 0 KB |
 | 24 | [A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | Python 3 | 46 ms | 0 KB |
